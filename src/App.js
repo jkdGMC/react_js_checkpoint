@@ -31,7 +31,7 @@ function App() {
       </nav>
 
       <div class="container mt-5">
-        <h1>Contact Us !</h1>
+        <h1>Contact Us  !</h1>
 
         <form class="row g-3">
           <div class="col-md-6">
